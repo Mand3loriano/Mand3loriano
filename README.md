@@ -1,5 +1,3 @@
-<!--**Mand3loriano/Mand3loriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Eu sou o Mando
 Um mundo repleto de conhecimento...
                                                                                                                     
@@ -19,3 +17,6 @@ Um mundo repleto de conhecimento...
 
 Bom, sou um programandor já experiente na biblioteca do dsicord.py. E decidi passar esse meu
 conhecimento, a vocês.
+
+
+<!--**Mand3loriano/Mand3loriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
