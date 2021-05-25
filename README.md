@@ -1,7 +1,7 @@
 # Eu sou o Mando
 Um mundo repleto de conhecimento...
                                                                                                                     
-![Mando (1)](https://user-images.githubusercontent.com/81872713/116169053-34920c00-a6da-11eb-8afa-6f18d842f04c.jpg) 
+![Screenshot_1](https://user-images.githubusercontent.com/81872713/119426224-30f4a380-bcdf-11eb-8716-652065a23fe1.jpg) 
  
  🔗 Twitter: [Click aqui](https://twitter.com/Mand3loriano)
  
