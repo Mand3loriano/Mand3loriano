@@ -5,3 +5,6 @@
 
 <p align="center">Um mundo repleto de conhecimento...</p>
 
+
+![pixel-jeff-galaxy-far-far-away](https://user-images.githubusercontent.com/81872713/120901073-f0febc00-c60e-11eb-9090-3a08df0684f8.gif)
+
